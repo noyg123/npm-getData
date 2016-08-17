@@ -1,0 +1,6 @@
+{
+        "Classification": 0,
+        "TrianglesAllow": [{"TriangleId":706856, "TriangleClearance":1}],
+        "PublishProcedureAllow":[{"PublishProcedureId":614063, "PublishProcedureType":"c19nGroups1"}],
+        "DisplayName":"Linnovate/department1/job1"
+}

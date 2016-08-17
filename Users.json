@@ -1,0 +1,37 @@
+[
+    {
+        "uniqueId": "t0121@gmail.com",
+        "displayName": "Linnovate/department1/job1",
+        "fullName":"Dan"
+    },
+    {
+        "uniqueId": "t1234@gmail.com",
+        "displayName": "Linnovate/department1/job2",
+        "fullName":"David"
+    },
+    {
+        "uniqueId": "t1235@gmail.com",
+        "displayName": "Linnovate/department2/job1",
+        "fullName":"Sara"
+    },
+    {
+        "uniqueId": "t1236@gmail.com",
+        "displayName": "Linnovate/department2/job1",
+        "fullName":"Ben"
+    },
+    {
+        "uniqueId": "t4556@gmail.com",
+        "displayName": "Linnovate/department3/job1",
+        "fullName":"Jonatan"
+    },
+    {
+        "uniqueId": "t4559@gmail.com",
+        "displayName": "Linnovate/department1/job2",
+        "fullName":"Roy"
+    },
+    {
+        "uniqueId": "t4550@gmail.com",
+        "displayName": "Linnovate/department4/job3",
+        "fullName":"Anna"
+    }
+]

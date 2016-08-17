@@ -1,0 +1,6 @@
+[
+    {"Id":610898, "Name":"C19nGroup1_1", "Type":"c19nGroups1", "IsActive":true},
+    {"Id":614061, "Name":"C19nGroup1_2", "Type":"c19nGroups1", "IsActive":true},
+    {"Id":614062, "Name":"C19nGroup1_3", "Type":"c19nGroups1", "IsActive":false},
+    {"Id":614063, "Name":"C19nGroup1_4", "Type":"c19nGroups1", "IsActive":false}    
+]
