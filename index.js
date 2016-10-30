@@ -16,7 +16,7 @@ exports.getUsers = function(callback) {
         return callback(data);
     });
 }
-exports.getUserPermission = function(callback) {
+exports.getUserPermission = function(id, callback) {
     readJson("UserPermission.json", function(data){
         return callback(data);
     });
