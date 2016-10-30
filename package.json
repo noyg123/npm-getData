@@ -1,6 +1,6 @@
 {
   "name": "npm-getdata-pkg",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "provide the data from nova",
   "main": "index.js",
   "scripts": {
